@@ -2,6 +2,7 @@
 
 ## 使用
 ```
+# pacman -S wget
 # wget https://raw.githubusercontent.com/bobby285271/archlinux-base/master/pkglist
 # pacman -Syu $(cat pkglist)
 ```
